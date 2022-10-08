@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PathLab/static/css/main.eaf333c4.css",
+    "main.js": "/PathLab/static/js/main.9d21b77b.js",
+    "index.html": "/PathLab/index.html",
+    "main.eaf333c4.css.map": "/PathLab/static/css/main.eaf333c4.css.map",
+    "main.9d21b77b.js.map": "/PathLab/static/js/main.9d21b77b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf333c4.css",
+    "static/js/main.9d21b77b.js"
+  ]
+}
